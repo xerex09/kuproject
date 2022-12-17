@@ -1,3 +1,5 @@
 VEnv/
 .vs
 *__pycache__/
+Pipfile
+Pipfile.lock
